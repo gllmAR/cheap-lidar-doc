@@ -1,7 +1,7 @@
 # cheap-lidar-doc
 Cheap lidar doc availaible in Canada in early 2025
 
-|IMG|| Product | Measurement Range | Scanning Frequency | Field of View | Data Interface | Price (CAD) | Product Link | Datasheet Link |
+|IMG | Product | Measurement Range | Scanning Frequency | Field of View | Data Interface | Price (CAD) | Product Link | Datasheet Link |
 |---|---|---|---|---|---|---|---|---|
 |![image](https://github.com/user-attachments/assets/1cdae197-38df-4b15-957e-5c718b610a96)
  | **SLAMTEC RPLIDAR C1 360° DTOF Laser Scanner** | Up to 12 meters | 5 to 10 Hz | 360° | Serial Port | $101.47 | [View Product](https://ca.robotshop.com/products/slamtec-rplidar-c1-360-dtof-laser-scanner) | [Datasheet](https://bucket-download.slamtec.com/2d4664be9f9f5c748f3b608f2cf1862962b168eb/SLAMTEC_rplidar_datasheet_C1_v1.1_en.pdf) |
